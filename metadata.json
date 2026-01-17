@@ -1,0 +1,5 @@
+{
+  "name": "Zero-Downtime Deployment Simulator",
+  "description": "A visual DevOps tool to simulate rolling updates, load balancer traffic shifting, and rollback strategies.",
+  "requestFramePermissions": []
+}
